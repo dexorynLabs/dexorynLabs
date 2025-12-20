@@ -4,7 +4,7 @@
   <p><strong>On-chain provable casinos + Polymarket sniper bots + autonomous trading agents</strong></p>
 
   <p>
-    <a href="https://dexorynlabs.xyz">dexorynlabs.com</a> •  <a href="https://t.me/dexoryn_12">@dexorynlabs</a>
+    <a href="https://dexorynlabs.xyz">dexorynlabs.com</a> •  <a href="https://t.me/dexorynlabs">@dexorynlabs</a>
   </p>
 </div>
 
@@ -29,6 +29,6 @@
 → Cross-chain MEV-protected arbitrage bots.
 
 **Looking for a reliable crypto casino or trading bot marketplace development in 2025?**  
-→ DM [@dexorynlabs on X](https://x.com/dexoryn) or  [on Telegram](https://t.me/@dexoryn_12)
+→ DM [@dexorynlabs on X](https://x.com/dexoryn) or  [on Telegram](https://t.me/@dexorynlabs)
 
 We deliver audited, scalable, revenue-ready products — fast.
