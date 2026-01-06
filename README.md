@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h1>DexorynLabs ⚡️</h1>
+  <h1> This is Lyvial ⚡️</h1>
   <p><strong>On-chain provable casinos + Polymarket sniper bots + autonomous trading agents</strong></p>
 
 </div>
@@ -23,6 +23,6 @@
 → Cross-chain MEV-protected arbitrage bots.  
 
 **Looking for a reliable crypto casino or trading bot marketplace development in 2025?**  
-→ DM [@dexorynlabs on X](https://x.com/dexoryn) or  [on Telegram](https://t.me/@dexorynlabs)
+→ DM [on Telegram](https://t.me/@adamdev_x)
 
-We deliver audited, scalable, revenue-ready products — fast.
+I deliver audited, scalable, revenue-ready products — fast.
