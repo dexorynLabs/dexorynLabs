@@ -22,7 +22,7 @@
 → XStocks Trading Platform for RWA tokenization with 45 xStocks.  
 → Cross-chain MEV-protected arbitrage bots.  
 
-**Looking for a reliable crypto casino or trading bot marketplace development in 2025?**  
+**Looking for a reliable crypto casino or trading bot marketplace development in 2026?**  
 → DM [on Telegram](https://t.me/@adamdev_x)
 
 I deliver audited, scalable, revenue-ready products — fast.
