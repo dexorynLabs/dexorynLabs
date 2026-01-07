@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h1> This is ApenMoonSpin Dev ⚡️</h1>
+  <h1> This is ApeMoonSpin Dev ⚡️</h1>
   <p><strong>On-chain provable casinos + Polymarket sniper bots + autonomous trading agents</strong></p>
 
 </div>
