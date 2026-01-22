@@ -16,9 +16,9 @@
 
 
 ## Currently shipping money printers:
-→ Polymarket Arbitrage Bot with 7 strategies. 
-→ Polymarket Copy Trading Bot with bundle transactions. 
-→ Polymarket volume & resolution snipers (sub-second).  
+→ Polymarket Arbitrage Bot with 7 strategies.   
+→ Polymarket Copy Trading Bot with bundle transactions.   
+→ Polymarket volume & resolution snipers (sub-second).    
 → Polymarket Trading Bot with Kalshi & Coinbase.  
 → ZK + VRF provable roulette / dice / coinflip.   
 → XStocks Trading Platform for RWA tokenization with 45 xStocks.  
